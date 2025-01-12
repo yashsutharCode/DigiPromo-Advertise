@@ -2,6 +2,9 @@ DigitalSite
 
 DigitalSite is a modern web application designed to empower users to advertise effectively on various digital media platforms. Built with React, Tailwind CSS, and AOS for animations, this project showcases a portfolio of services and products with smooth navigation and engaging UI elements.
 
+Live Demo: Check out the live website at https://digi-promo.netlify.app/
+
+
 Features
 Responsive Design: Optimized for all screen sizes.
 Smooth Animations: Utilizes AOS for engaging animations.
