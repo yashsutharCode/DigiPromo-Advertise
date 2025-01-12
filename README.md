@@ -17,19 +17,19 @@ Installation
 Clone the repo
 sh
 Copy code
-/n           git clone http://github.com/yashsutharCode  
+           git clone http://github.com/yashsutharCode  
 Navigate to the project
 sh
 Copy code
-/n            cd DigiAgency  
+            cd DigiAgency  
 Install NPM package
 sh
 Copy code
-/n            npm install  
+            npm install  
 Run development server
 sh
 Copy code
-/n            npm run dev  
+            npm run dev  
 Usage
 Once the development server is running, you can access the application at http://localhost:{localport}. The main components of the application include:
 
