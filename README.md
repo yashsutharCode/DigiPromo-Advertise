@@ -16,20 +16,36 @@ Node.js installed on your machine. If you don't have Node.js installed, you can 
 Installation
 Clone the repo
 sh
-Copy code
-           git clone http://github.com/yashsutharCode  
+Copy code  
+
+
+           git clone http://github.com/yashsutharCode
+
+           
 Navigate to the project
 sh
 Copy code
+
+
             cd DigiAgency  
+
+            
 Install NPM package
 sh
 Copy code
+
+
             npm install  
+
+            
 Run development server
 sh
 Copy code
+
+
             npm run dev  
+
+            
 Usage
 Once the development server is running, you can access the application at http://localhost:{localport}. The main components of the application include:
 
