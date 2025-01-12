@@ -1,4 +1,5 @@
 DigitalSite
+
 DigitalSite is a modern web application designed to empower users to advertise effectively on various digital media platforms. Built with React, Tailwind CSS, and AOS for animations, this project showcases a portfolio of services and products with smooth navigation and engaging UI elements.
 
 Features
