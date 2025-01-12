@@ -1,4 +1,3 @@
-![Screenshot 2025-01-09 125520](https://github.com/user-attachments/assets/9dff6daa-3c4c-41f7-b61d-946900e2c246)
 DigitalSite
 
 DigitalSite is a modern web application designed to empower users to advertise effectively on various digital media platforms. Built with React, Tailwind CSS, and AOS for animations, this project showcases a portfolio of services and products with smooth navigation and engaging UI elements.
@@ -40,4 +39,4 @@ Portfolio: Showcase of digital media platforms and services.
 Product Template: Detailed view of selected products.
 Footer: Footer section with additional links and information.
 
-![Screenshot 2024-12-31 125511](https://github.com/user-attachments/assets/2db5e72e-f930-4e86-a953-f3721727c166)
+![Screenshot 2025-01-09 125520](https://github.com/user-attachments/assets/9dff6daa-3c4c-41f7-b61d-946900e2c246)
