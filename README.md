@@ -22,7 +22,7 @@ sh
 Copy code  
 
 
-           git clone http://github.com/yashsutharCode
+           git clone http://github.com/yashsutharCode/DigiPromo-Advertise
 
            
 Navigate to the project
